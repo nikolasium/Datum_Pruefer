@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Datums Pruefer!\n\n";
+    cout << "Datumspruefer.\n\n";
 
     /*
     Datum d1(1997, 7, 24);
